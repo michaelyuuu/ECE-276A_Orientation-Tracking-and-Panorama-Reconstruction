@@ -1,0 +1,2 @@
+# ECE-276A_Orientation-Tracking-and-Panorama-Reconstruction
+The objective of this project is to recover accurate roll, pitch, and yaw angles from IMU measurements by fusing complementary sensor information. I formulate the orientation estimation problem as a gradient-descent optimization and evaluate its performance by comparing the estimated orientations against the provided Vicon groundtruth data. 
